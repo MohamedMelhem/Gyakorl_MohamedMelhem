@@ -14,7 +14,7 @@ namespace Gyakorló0404
 		public string Name { get;}
 
 		public bool IsItDairyFree { get; set; } = false;
-
+		  
 
 
 		protected Etel(double caloriesPerDkg, double weight, string name)
